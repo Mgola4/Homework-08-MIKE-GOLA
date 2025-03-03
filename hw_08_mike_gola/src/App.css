@@ -1,0 +1,29 @@
+/* App.css */
+
+/* Centering the page header */
+h1 {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Styling the search input */
+input[type="text"] {
+  padding: 10px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+/* Styling the card images */
+.card-img-top {
+  max-height: 250px;
+  object-fit: cover;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Styling the button */
+.card-body .btn {
+  margin-top: 10px;
+}
